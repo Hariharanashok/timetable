@@ -115,21 +115,21 @@ Execute the program
 
 # OUPUT
 
-#Server Output:
+## Server Output:
 
 ![out 1](https://user-images.githubusercontent.com/120353431/235048814-d6a84622-d5d7-4ff5-a628-aa20b272545e.png)
 
 
-#Client Output:
+## Client Output:
 
 ![output3](https://user-images.githubusercontent.com/120353431/235049570-c93a8b31-05f6-45a3-8f01-182332b54ead.png)
 
 
-#HTML Checker:
+## HTML Checker:
 
 ![out 3](https://user-images.githubusercontent.com/120353431/235049000-66b04516-d611-4156-89ed-1327f5c13762.png)
 
 
-#Result:
+# Result:
 
 Thus,the code has been excuted successfully.
