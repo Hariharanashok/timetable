@@ -122,13 +122,12 @@ Execute the program
 
 #Client Output:
 
-![out 2](https://user-images.githubusercontent.com/120353431/235048919-1265d997-fe7b-4fac-a879-f8721b8ea0bb.png)
+![output3](https://user-images.githubusercontent.com/120353431/235049570-c93a8b31-05f6-45a3-8f01-182332b54ead.png)
 
 
 #HTML Checker:
 
 ![out 3](https://user-images.githubusercontent.com/120353431/235049000-66b04516-d611-4156-89ed-1327f5c13762.png)
-
 
 
 #Result:
